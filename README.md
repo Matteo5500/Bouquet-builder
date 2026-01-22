@@ -47,3 +47,6 @@ Create a .env file and add your OPENAI_API_KEY.
 Run npm install and npm run dev.
 If you find this project interesting, feel free to leave a ⭐!
 
+![Bouquet Builder](bouquet_builder1.png)
+
+![Bouquet Builder](bouquet_builder2.png)
